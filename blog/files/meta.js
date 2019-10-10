@@ -56,7 +56,7 @@
 	};
  
 	// Object containing all website meta info
-	var websiteMeta = {"752f82acc7eb77c807d708e2ecb0504f-1.html":"<p>Regression is a subtopic of machine learning, which specializes on <strong>examining the relationships between inputs and outputs<\/strong> as a pow","archive-july-2018.html":"Archives for July 2018"};
+	var websiteMeta = {"312cc3f14bddff239e5d097d3c6bb3a2-2.html":"<p>Regression is a subtopic of machine learning, which specializes on <strong>examining the relationships between inputs and outputs<\/strong> as a pow","archive-october-2019.html":"Archives for October 2019"};
  
 	// pageId must match the key in websiteMeta object
 	var url = window.location.pathname;
