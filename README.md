@@ -1,2 +1,2 @@
 # charliegai.github.io
-Personal Blog
+Personal Blog where I talk about tech, productivity and programming.
