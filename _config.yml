@@ -22,6 +22,7 @@ title: Backup Plan
 email: szcharlesji@gmail.com 
 description: >- # this means to ignore newlines until "baseurl:"
   Blog by Charles Ji, where I talk about tech, productivity and programming.
+  Charles Ji的blog，内容主要针对科技，生产力和编程。
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://charlesji.co" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: gaicharlie
