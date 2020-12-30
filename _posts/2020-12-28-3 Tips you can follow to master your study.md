@@ -85,7 +85,7 @@ With these being said, I believe many of you have tried a **todo list** to organ
 
 **Simply do —** Use your trusted system to make action decisions with confidence and clarity.
 
-This methodology clarifies **what tasks to do** and **what tasks you have done** and it's a great start for beginners. \*\*\*\*However, such a robust system **doesn't** address the very basic problem — **When you should do your task.** Because after all, we judge productivity based on how much you have accomplished.
+This methodology clarifies **what tasks to do** and **what tasks you have done** and it's a great start for beginners. However, such a robust system **doesn't** address the very basic problem — **When you should do your task.** Because after all, we judge productivity based on how much you have accomplished.
 
 ### Use time management to manage your tasks
 

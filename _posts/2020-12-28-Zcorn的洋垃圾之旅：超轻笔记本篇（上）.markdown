@@ -45,11 +45,11 @@ Desk Setup专栏由Digiphile编辑组出品，致力分享日常生活，生产�
 
 一般意义上的轻薄本在1.5kg以下，代表机型（Windows）有：
 
--   Thinkpad \~\~(SinkPad)\~\~ X1 Carbon(1.09kg)，碳纤维，时间长了会打油，出现“伊拉克”成色；新款电池从58wh削到50wh，离谱。
+-   Thinkpad (SinkPad) X1 Carbon(1.09kg)，碳纤维，时间长了会打油，出现“伊拉克”成色；新款电池从58wh削到50wh，离谱。
 
 ![image-20201229142013115][image-1]
 
--   Thinkpad \~\~(SinkPad)\~\~ X1 Nano(907g)，双雷电接口，确实很轻，新款机型，有待市场检验。
+-   Thinkpad (SinkPad) X1 Nano(907g)，双雷电接口，确实很轻，新款机型，有待市场检验。
 
 ![image-20201229142153544][image-2]
 

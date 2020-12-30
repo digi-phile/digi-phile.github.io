@@ -109,8 +109,8 @@ There are some great feature comes with this software that is going to further e
 
 # Shortcut under Universally:
 
-\`Win + \`\`
-
+`Win + 
+`
 Open & Close layout selection & edition panel
 
 ![2020-12-21-Make%20better%20use%20of%20screen%20real%20estate%20a09cfe481be34bd0b1abce0f9345bf9f/Untitled%2014.png][image-15]
