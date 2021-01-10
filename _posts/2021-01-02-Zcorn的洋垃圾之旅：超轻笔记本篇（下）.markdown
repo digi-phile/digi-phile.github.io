@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Zcorn的洋垃圾之旅：超轻笔记本篇（上）"
+title:  "Zcorn的洋垃圾之旅：超轻笔记本篇（下）"
 date:   2021-01-02 11:18:36 +0800
 categories: desk setup
 ---
@@ -19,7 +19,7 @@ categories: desk setup
 
 -   贵(13k买的)
 
--   键盘跟踩*一样，疫情期间天天上网课打字打出了销腱炎（新款换回剪刀，有改善）
+-   键盘跟踩\*一样，疫情期间天天上网课打字打出了销腱炎（新款换回剪刀，有改善）
 -   金属机身天天供着跟宝贝一样
 
 #### 优点：
@@ -46,7 +46,7 @@ categories: desk setup
 
 
 
-### Apple iPad Pro 12.9 inch 2020 with Smart Keyboard（不是电脑的电脑） 
+### Apple iPad Pro 12.9 inch 2020 with Smart Keyboard（不是电脑的电脑）
 
 新机自用
 
