@@ -29,10 +29,12 @@ twitter_username: gaicharlie
 github_username:  charliegai
 
 # Build settings
-theme: minima
+# theme: minima
+remote_theme: "mmistakes/minimal-mistakes@4.21.0"
+
 plugins:
   - jekyll-feed
-
+  - jekyll-include-cache
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
