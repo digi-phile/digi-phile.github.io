@@ -63,7 +63,7 @@ With these being said, I believe many of you have tried a **todo list** to organ
 
 > GETTING THINGS DONE® is a personal productivity methodology that redefines how you approach your life and work.
 
-![2020-12-28-3%20Tips%20you%20can%20follow%20to%20master%20your%20st%20aaa88635b1ac491e94d6ed5dd6978c84/Untitled.png][image-1]
+![/2020-12-28-3%20Tips%20you%20can%20follow%20to%20master%20your%20st%20aaa88635b1ac491e94d6ed5dd6978c84/Untitled.png][image-1]
 
 **STEP 1 CAPTURE**
 
@@ -97,7 +97,7 @@ Almost all the basic todo list apps have an option to specific tasks that you fi
 
 Effective use of the priority system helps you choosing the right task to engage in by filtering tasks. Modern Todo List apps like [OmniFocus][1] or [2Do][2] have complex filtering systems called 'Perspective' or 'Smart List' which takes GTD to a next level.
 
-![2020-12-28-3%20Tips%20you%20can%20follow%20to%20master%20your%20st%20aaa88635b1ac491e94d6ed5dd6978c84/Untitled%201.png][image-2]
+![/2020-12-28-3%20Tips%20you%20can%20follow%20to%20master%20your%20st%20aaa88635b1ac491e94d6ed5dd6978c84/Untitled%201.png][image-2]
 
 2Do
 
@@ -113,11 +113,11 @@ Instead, what you can do is to give yourself time blocks when you have free time
 
 It is also suggested to **tag** your available time blocks with **your energy** level to match **priorities** of your tasks, all of which give you a general idea of the task to start with.
 
-![2020-12-28-3%20Tips%20you%20can%20follow%20to%20master%20your%20st%20aaa88635b1ac491e94d6ed5dd6978c84/Untitled%202.png][image-3]
+![/2020-12-28-3%20Tips%20you%20can%20follow%20to%20master%20your%20st%20aaa88635b1ac491e94d6ed5dd6978c84/Untitled%202.png][image-3]
 
 Calendar that doesn't work
 
-![2020-12-28-3%20Tips%20you%20can%20follow%20to%20master%20your%20st%20aaa88635b1ac491e94d6ed5dd6978c84/Untitled%203.png][image-4]
+![/2020-12-28-3%20Tips%20you%20can%20follow%20to%20master%20your%20st%20aaa88635b1ac491e94d6ed5dd6978c84/Untitled%203.png][image-4]
 
 Calendar that does work
 
@@ -129,19 +129,19 @@ If you have a team for your project that requires not teacher involvement or  no
 
 ### Trello
 
-![2020-12-28-3%20Tips%20you%20can%20follow%20to%20master%20your%20st%20aaa88635b1ac491e94d6ed5dd6978c84/Untitled%204.png][image-5]
+![/2020-12-28-3%20Tips%20you%20can%20follow%20to%20master%20your%20st%20aaa88635b1ac491e94d6ed5dd6978c84/Untitled%204.png][image-5]
 
 As the most famous Kanban tool on the market, Trello has served as a standard of project management for more than 50 million users, which also helps MIT team to organize tasks. But power users aren't limited to simply visualizing tasks. With strong integration with Slack or MS Teams, you could create tasks, assign to others and mark as complete directly from the communication app you like. If you are serious about project management or even personal task management, you definitely need to check it out.
 
 ### Slack
 
-![2020-12-28-3%20Tips%20you%20can%20follow%20to%20master%20your%20st%20aaa88635b1ac491e94d6ed5dd6978c84/Untitled%205.png][image-6]
+![/2020-12-28-3%20Tips%20you%20can%20follow%20to%20master%20your%20st%20aaa88635b1ac491e94d6ed5dd6978c84/Untitled%205.png][image-6]
 
 Being a powerful communication app, Slack takes management and integration to the next level. You want to keep updated with edits in Notion, collaborate on Trello and start a Zoom meeting from one single app? Slack is the only possible solution you can have. As distant collaboration is becoming a general trend of the future and a necessity right now, Slack becomes more and more popular among projects from small startups to giant tech companies. 
 
 ### Notion
 
-![2020-12-28-3%20Tips%20you%20can%20follow%20to%20master%20your%20st%20aaa88635b1ac491e94d6ed5dd6978c84/Untitled%206.png][image-7]
+![/2020-12-28-3%20Tips%20you%20can%20follow%20to%20master%20your%20st%20aaa88635b1ac491e94d6ed5dd6978c84/Untitled%206.png][image-7]
 
 Online documentation collaborations have never been so easy until the MiT switched to Notion. Seamless synchronization and nice interface are not the only reasons why MIT members chose Notion as a place for notes. With powerful database feature and integration of other apps like Slack or MS Teams, Notion really takes productivity to the next level. 
 
@@ -173,10 +173,10 @@ Creative Common (CC3 BY) — written by Charles Ji, MIT team with love and passi
 [6]:	https://gettingthingsdone.com/what-is-gtd/
 [7]:	https://sspai.com/post/58609
 
-[image-1]:	2020-12-28-3%20Tips%20you%20can%20follow%20to%20master%20your%20st%20aaa88635b1ac491e94d6ed5dd6978c84/Untitled.png
-[image-2]:	2020-12-28-3%20Tips%20you%20can%20follow%20to%20master%20your%20st%20aaa88635b1ac491e94d6ed5dd6978c84/Untitled%201.png
-[image-3]:	2020-12-28-3%20Tips%20you%20can%20follow%20to%20master%20your%20st%20aaa88635b1ac491e94d6ed5dd6978c84/Untitled%202.png
-[image-4]:	2020-12-28-3%20Tips%20you%20can%20follow%20to%20master%20your%20st%20aaa88635b1ac491e94d6ed5dd6978c84/Untitled%203.png
-[image-5]:	2020-12-28-3%20Tips%20you%20can%20follow%20to%20master%20your%20st%20aaa88635b1ac491e94d6ed5dd6978c84/Untitled%204.png
-[image-6]:	2020-12-28-3%20Tips%20you%20can%20follow%20to%20master%20your%20st%20aaa88635b1ac491e94d6ed5dd6978c84/Untitled%205.png
-[image-7]:	2020-12-28-3%20Tips%20you%20can%20follow%20to%20master%20your%20st%20aaa88635b1ac491e94d6ed5dd6978c84/Untitled%206.png
+[image-1]:	/2020-12-28-3%20Tips%20you%20can%20follow%20to%20master%20your%20st%20aaa88635b1ac491e94d6ed5dd6978c84/Untitled.png
+[image-2]:	/2020-12-28-3%20Tips%20you%20can%20follow%20to%20master%20your%20st%20aaa88635b1ac491e94d6ed5dd6978c84/Untitled%201.png
+[image-3]:	/2020-12-28-3%20Tips%20you%20can%20follow%20to%20master%20your%20st%20aaa88635b1ac491e94d6ed5dd6978c84/Untitled%202.png
+[image-4]:	/2020-12-28-3%20Tips%20you%20can%20follow%20to%20master%20your%20st%20aaa88635b1ac491e94d6ed5dd6978c84/Untitled%203.png
+[image-5]:	/2020-12-28-3%20Tips%20you%20can%20follow%20to%20master%20your%20st%20aaa88635b1ac491e94d6ed5dd6978c84/Untitled%204.png
+[image-6]:	/2020-12-28-3%20Tips%20you%20can%20follow%20to%20master%20your%20st%20aaa88635b1ac491e94d6ed5dd6978c84/Untitled%205.png
+[image-7]:	/2020-12-28-3%20Tips%20you%20can%20follow%20to%20master%20your%20st%20aaa88635b1ac491e94d6ed5dd6978c84/Untitled%206.png
