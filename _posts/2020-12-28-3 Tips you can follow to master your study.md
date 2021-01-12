@@ -1,5 +1,3 @@
-# 2020-12-28-3 Tips you can follow to master your study
-
 ---
 layout: post
 title:  "3 Tips you can follow to master your study"

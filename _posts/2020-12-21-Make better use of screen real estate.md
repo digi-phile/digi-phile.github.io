@@ -1,5 +1,3 @@
-# 2020-12-21-Make better use of screen real estate
-
 ---
 layout: post
 title:  "Make better use of screen real estate"
