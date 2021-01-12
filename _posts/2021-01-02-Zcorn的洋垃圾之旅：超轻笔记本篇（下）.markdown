@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Zcorn的洋垃圾之旅：超轻笔记本篇（下）"
 date:   2021-01-02 11:18:36 +0800
 categories: desk setup

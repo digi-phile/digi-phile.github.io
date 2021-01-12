@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "3 Tips you can follow to master your study"
 date:   2020-12-29 21:18:36 +0800
 categories: productivity

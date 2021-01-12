@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "为什么抖音快手看完索然无味？我对网络内容媒介的反思"
 date:   2021-01-09 21:18:39 +0800
 categories: productivity
@@ -44,13 +44,13 @@ categories: productivity
 在创作者中，部分为了吸引观众，引发了“洗澡门” “巴士面前跳舞”等恶劣事件。非但冒着个人的隐私和生命危险，也给社会带来极其负面的影响。而对于天真的观众来说，这样的恶劣事件只是加强了创作者制作类似内容给的动机，对于平台来说更多的访问代表了更广的传播。
 
 根据极数的研究，下沉用户（即低学历用户）是短视频平台的主要目标。在持续对下沉市场的入侵中，大专及以下学历的人持续增长；而受过更高等教育的人越来越不屑短视频平台的无营养而逐渐退出。
-![xueli][2]
+![xueli][image-3]
 
 
 利用自媒体时代近乎为零的启动成本，空前的自媒体内容在网络上传播。作为一个观众和创作者，我希望信息时代的人类用批判性思维看待自媒体内容。
 
 [1]:	https://www.ershicimi.com/p/60c2a8e0fdad03249eb3da38de12f76a
-[2]:	/2021-01-07-%E4%B8%BA%E4%BB%80%E4%B9%88%E6%8A%96%E9%9F%B3%E5%BF%AB%E6%89%8B%E7%9C%8B%E5%AE%8C%E7%B4%A2%E7%84%B6%E6%97%A0%E5%91%B3%EF%BC%9F%E6%88%91%E5%AF%B9%E7%BD%91%E7%BB%9C%E5%86%85%E5%AE%B9%E5%AA%92%E4%BB%8B%E7%9A%84%E5%8F%8D%E6%80%9D/Screen%20Shot%202021-01-10%20at%2013.41.32.png
 
 [image-1]:	/2021-01-07-%E4%B8%BA%E4%BB%80%E4%B9%88%E6%8A%96%E9%9F%B3%E5%BF%AB%E6%89%8B%E7%9C%8B%E5%AE%8C%E7%B4%A2%E7%84%B6%E6%97%A0%E5%91%B3%EF%BC%9F%E6%88%91%E5%AF%B9%E7%BD%91%E7%BB%9C%E5%86%85%E5%AE%B9%E5%AA%92%E4%BB%8B%E7%9A%84%E5%8F%8D%E6%80%9D/szabo-viktor-tsbcvd1YBZo-unsplash.jpg
 [image-2]:	/2021-01-07-%E4%B8%BA%E4%BB%80%E4%B9%88%E6%8A%96%E9%9F%B3%E5%BF%AB%E6%89%8B%E7%9C%8B%E5%AE%8C%E7%B4%A2%E7%84%B6%E6%97%A0%E5%91%B3%EF%BC%9F%E6%88%91%E5%AF%B9%E7%BD%91%E7%BB%9C%E5%86%85%E5%AE%B9%E5%AA%92%E4%BB%8B%E7%9A%84%E5%8F%8D%E6%80%9D/thomas-kinto-vdlcBH5CR4E-unsplash.jpg
+[image-3]:	/2021-01-07-%E4%B8%BA%E4%BB%80%E4%B9%88%E6%8A%96%E9%9F%B3%E5%BF%AB%E6%89%8B%E7%9C%8B%E5%AE%8C%E7%B4%A2%E7%84%B6%E6%97%A0%E5%91%B3%EF%BC%9F%E6%88%91%E5%AF%B9%E7%BD%91%E7%BB%9C%E5%86%85%E5%AE%B9%E5%AA%92%E4%BB%8B%E7%9A%84%E5%8F%8D%E6%80%9D/Screen%20Shot%202021-01-10%20at%2013.41.32.png

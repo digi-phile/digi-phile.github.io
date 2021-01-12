@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "横向纵向生产力，对iPad作为生产力工具的思考"
 date:   2021-01-07 21:18:36 +0800
 categories: productivity

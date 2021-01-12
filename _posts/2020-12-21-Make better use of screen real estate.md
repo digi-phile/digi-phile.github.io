@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Make better use of screen real estate"
 date:   2020-12-29 21:18:36 +0800
 categories: productivity
