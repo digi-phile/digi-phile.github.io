@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single 
 title: About
 permalink: /about/
 ---
@@ -12,3 +12,4 @@ Blog members:
 - Tom
 - Martin
 - Charles
+- Steven
