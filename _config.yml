@@ -97,7 +97,7 @@ author:
   avatar           : "/assets/DIGI.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Productivity and Tech Enthusiasts"
   location         : "Suzhou | New York"
-  email            : "szcharlesji@gmail"
+  # email            : "szcharlesji@gmail"
   links:
     - label: "Email | Cheng Ji"
       icon: "fas fa-fw fa-envelope-square"
