@@ -5,10 +5,6 @@ date:   2020-12-29 21:18:36 +0800
 categories: productivity
 ---
 
-# A Warm Welcome from Digiphile
-
-It might be scary to some of the peers hearing about the status quo of the coronavirus, but please stay inside, take care of yourself and also study hard! 
-
 Distance learning during this very time of coronavirus must have impacted our learning experiences in various ways. Love it or not, we have to admit both the freedom and inconvenience brought by coronavirus that some people have unwittingly encountered. Study has shown that about 30 percent of American work remotely. Do you feel distant learning/working less productive? Here are 3 tips you can follow to master your study.
 
 # Why studying remotely can be unproductive
