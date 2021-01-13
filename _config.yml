@@ -99,7 +99,7 @@ author:
   location         : "Suzhou | New York"
   # email            : "szcharlesji@gmail"
   links:
-    - label: "Email | Cheng Ji"
+    - label: "Contact | Cheng Ji"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:szcharlesji@gmail"
     # - label: "Personal Website | Cheng Ji"
