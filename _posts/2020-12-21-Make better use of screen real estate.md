@@ -5,8 +5,6 @@ date:   2020-12-29 21:18:36 +0800
 categories: productivity
 ---
 
-# Problem of existing Windows split screen
-
 I believe everyone’s life has changed a lot these days due to the coronavirus pandemic, just like me, a high schooler. Like most other businesses, video meetings’ popularity is growing exponentially where our classes are taking place online, not to mention homework is assigned via MS teams.
 
 ![/2020-12-21-Make%20better%20use%20of%20screen%20real%20estate%20a09cfe481be34bd0b1abce0f9345bf9f/Untitled%201.png][image-1]
@@ -155,3 +153,5 @@ From that day I put PowerToy in use, I can see how my multitasking efficiency is
 [image-15]:	/2020-12-21-Make%20better%20use%20of%20screen%20real%20estate%20a09cfe481be34bd0b1abce0f9345bf9f/Untitled%2014.png
 [image-16]:	/2020-12-21-Make%20better%20use%20of%20screen%20real%20estate%20a09cfe481be34bd0b1abce0f9345bf9f/PowertoyWin.gif
 [image-17]:	/2020-12-21-Make%20better%20use%20of%20screen%20real%20estate%20a09cfe481be34bd0b1abce0f9345bf9f/Untitled%2015.png
+
+© 本文著作权归作者所有，首发于[Digiphile](https://digiphile.org)，转载请注明。

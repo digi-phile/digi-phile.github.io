@@ -5,10 +5,6 @@ date:   2021-01-07 21:18:36 +0800
 categories: productivity
 ---
 
-# A Warm Welcome from Digiphile
-
-It might be scary to some of the peers hearing about the status quo of the coronavirus, but please stay inside, take care of yourself and also study hard! 
-
 到了2021年，很多人都由于疫情的原因入手了新的学习和工作设备，从桌面端到移动端，iPad作为生产力工具总是一个脱离不开的话题。
 
 作为一种定位介于桌面端和移动端的产品，iPad凭借其优秀的用户体验，完整的应用生态，出色的硬件配置等优势，在生产力的设备清单里一枝独秀，苹果为其打出**’你的下一台电脑何必是一台电脑’**的口号。然而事实真的是这样吗？iPad真的有宣传的那样无所不能吗？购入iPad后是否能解决之前的效率问题呢？
@@ -53,6 +49,9 @@ Smart Keyboard的诞生意味着Apple填补了桌面端和移动端两个截然�
 对于我这样的学生，iPad相较于Mac更注重于学习而不是管理。软件例如MarginNote, GoodNotes, Notability, 我更倾向于在iPad上使用后通过iCloud同步到Mac上，从而用Anki, Ulysses, Pages, RemNote等等软件交接。
 
 作为“大版iPhone”，iPad的阅读体验也肯定是必然的好，通过Reeder同步待阅读项目，Calendar/reminder等等通过Continuity接力到iPad上也能得到体验的提升。这些基本的操作在此就不多赘述了。
+
+感谢阅读！作者 @Cheng Ji
+© 本文著作权归作者所有，首发于[Digiphile](https://digiphile.org)，转载请注明。
 
 [image-1]:	/2021-01-07-%E6%A8%AA%E5%90%91%E7%BA%B5%E5%90%91%E7%94%9F%E4%BA%A7%E5%8A%9B%EF%BC%8C%E5%AF%B9iPad%E4%BD%9C%E4%B8%BA%E7%94%9F%E4%BA%A7%E5%8A%9B%E5%B7%A5%E5%85%B7%E7%9A%84%E6%80%9D%E8%80%83/E0D1D6B4-7AC6-4E70-A9EC-F69047E29690.JPG
 [image-2]:	/2021-01-07-%E6%A8%AA%E5%90%91%E7%BA%B5%E5%90%91%E7%94%9F%E4%BA%A7%E5%8A%9B%EF%BC%8C%E5%AF%B9iPad%E4%BD%9C%E4%B8%BA%E7%94%9F%E4%BA%A7%E5%8A%9B%E5%B7%A5%E5%85%B7%E7%9A%84%E6%80%9D%E8%80%83/IMG_95F3684F118A-1.jpeg
