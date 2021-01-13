@@ -160,6 +160,7 @@ Creative Common (CC3 BY) — written by Charles Ji, MIT team with love and passi
 [需要远程办公，不妨用 Trello 进行组织和协作 - 少数派][7]
 
 感谢阅读！作者 @Cheng Ji
+
 © 本文著作权归作者所有，首发于[Digiphile](https://digiphile.org)，转载请注明。
 
 [1]:	https://www.omnigroup.com/omnifocus

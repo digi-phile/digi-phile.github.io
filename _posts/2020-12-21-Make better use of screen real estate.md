@@ -131,6 +131,10 @@ From that day I put PowerToy in use, I can see how my multitasking efficiency is
 
 [microsoft/PowerToys][4]
 
+感谢阅读！作者 @Yongzhao Wu
+
+© 本文著作权归作者所有，首发于[Digiphile](https://digiphile.org)，转载请注明。
+
 [1]:	https://github.com/Microsoft/powertoys/releases
 [2]:	https://youtu.be/4pteCeFXnsw
 [3]:	https://en.wikipedia.org/wiki/Microsoft_PowerToys
@@ -153,5 +157,3 @@ From that day I put PowerToy in use, I can see how my multitasking efficiency is
 [image-15]:	/2020-12-21-Make%20better%20use%20of%20screen%20real%20estate%20a09cfe481be34bd0b1abce0f9345bf9f/Untitled%2014.png
 [image-16]:	/2020-12-21-Make%20better%20use%20of%20screen%20real%20estate%20a09cfe481be34bd0b1abce0f9345bf9f/PowertoyWin.gif
 [image-17]:	/2020-12-21-Make%20better%20use%20of%20screen%20real%20estate%20a09cfe481be34bd0b1abce0f9345bf9f/Untitled%2015.png
-
-© 本文著作权归作者所有，首发于[Digiphile](https://digiphile.org)，转载请注明。

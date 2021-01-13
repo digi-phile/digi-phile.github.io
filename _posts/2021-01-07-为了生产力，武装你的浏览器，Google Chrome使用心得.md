@@ -43,7 +43,10 @@ Chrome最大的亮点在我看来就是有着丰富多样的插件（extension�
 
 总结了这么多，Chrome经过一代一代的开发，已经是一套非常完善的系统了。还有更多实用的功能，就等着我们下篇文章继续发掘吧！
 
+感谢阅读！作者 @Yongzhao Wu
+
 © 本文著作权归作者所有，首发于[Digiphile](https://digiphile.org)，转载请注明。
+
 [image-1]:	/%E8%B0%B7%E6%AD%8C%E6%B5%8F%E8%A7%88%E5%99%A8/image-20210106193806087.png
 [image-2]:	/%E8%B0%B7%E6%AD%8C%E6%B5%8F%E8%A7%88%E5%99%A8/image-20210107090257156.png
 [image-3]:	/%E8%B0%B7%E6%AD%8C%E6%B5%8F%E8%A7%88%E5%99%A8/image-20210107090359788.png
