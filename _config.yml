@@ -93,7 +93,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Digiphilers"
+  name             : "Our Digiphilers"
   avatar           : "/assets/DIGI.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Productivity and Tech Enthusiasts"
   location         : "Suzhou | New York"
