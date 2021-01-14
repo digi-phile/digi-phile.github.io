@@ -5,12 +5,13 @@ date:   2021-01-10 21:18:39 +0800
 categories: productivity
 ---
 
-![/sleep-tips/gregory-pappas-rUc9hVE-L-E-unsplash.jpg](/sleep-tips/gregory-pappas-rUc9hVE-L-E-unsplash.jpg)
 
 
 # Tip 1: Leave your devices alone
 
 Have you ever taken your smart phone with you when you go to bed? I admit I used to do that, and always get 2 extra waking hours. 
+
+![/sleep-tips/gregory-pappas-rUc9hVE-L-E-unsplash.jpg](/sleep-tips/gregory-pappas-rUc9hVE-L-E-unsplash.jpg)
 
 The reason to do this could be complex: Social media chatting, attractive TV series, feeling guilty about unfinished work during the day, and so on. However, they all contribute to the same result: **Deteriorating your sleep quality**. 
 
