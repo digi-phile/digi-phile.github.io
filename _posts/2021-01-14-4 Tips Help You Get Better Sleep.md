@@ -5,8 +5,6 @@ date:   2021-01-10 21:18:39 +0800
 categories: productivity
 ---
 
-
-
 # Tip 1: Leave your devices alone
 
 Have you ever taken your smart phone with you when you go to bed? I admit I used to do that, and always get 2 extra waking hours. 
