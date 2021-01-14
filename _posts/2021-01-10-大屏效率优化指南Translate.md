@@ -9,22 +9,21 @@ Boost productivity on large displays - Make best use of screen real estate by op
 
 ![joshua-aragon-BMnhuwFYr7w-unsplash](/%E5%A4%A7%E5%B1%8F%E6%95%88%E7%8E%87%E6%8C%87%E5%8D%97%EF%BC%9A%E4%BC%98%E5%8C%96%E7%B3%BB%E7%BB%9F%E5%81%8F%E5%A5%BD%E4%BB%A5%E5%88%A9%E7%94%A8%E6%9B%B4%E5%A4%9A%E7%A9%BA%E9%97%B4%EF%BC%88%E4%B8%80%EF%BC%89%20593062c1c2454978aece688ac5dbd0a1/joshua-aragon-BMnhuwFYr7w-unsplash.jpg)
 
-已经以「提高学习效率」为名购入大屏幕的你，是否正踌躇着为下重金的钱包找个借口？大屏效率指南懂你所思。这里没有长篇大论，只有同样是高中生的作者提供的一点经验分享。如果你愿意用 5 分钟时间来了解一些小众效率工具，那么这系列文章一定为成为你的每周必读。
-
 Say, you‘ve bought a big screen to "improving studying efficiency", are you imperatively making up an excuse for your empty wallet? This article will offer all that you want to know. With no floods of ink, Only concise empiricism by a high school student. With 5 minutes to learn about many special but useful tools, you will definitely enjoy the time and add this series to your feed.
-
-## 
 
 ## Optimizing system preferences
 
 ### Display more by adjusting the resolution scaling
 
-### ![Screen_Shot_2021-01-05_at_19.46.31](/%E5%A4%A7%E5%B1%8F%E6%95%88%E7%8E%87%E6%8C%87%E5%8D%97%EF%BC%9A%E4%BC%98%E5%8C%96%E7%B3%BB%E7%BB%9F%E5%81%8F%E5%A5%BD%E4%BB%A5%E5%88%A9%E7%94%A8%E6%9B%B4%E5%A4%9A%E7%A9%BA%E9%97%B4%EF%BC%88%E4%B8%80%EF%BC%89%20593062c1c2454978aece688ac5dbd0a1/Screen_Shot_2021-01-05_at_19.46.31.jpg)
+![Screen_Shot_2021-01-05_at_19.46.31](/%E5%A4%A7%E5%B1%8F%E6%95%88%E7%8E%87%E6%8C%87%E5%8D%97%EF%BC%9A%E4%BC%98%E5%8C%96%E7%B3%BB%E7%BB%9F%E5%81%8F%E5%A5%BD%E4%BB%A5%E5%88%A9%E7%94%A8%E6%9B%B4%E5%A4%9A%E7%A9%BA%E9%97%B4%EF%BC%88%E4%B8%80%EF%BC%89%20593062c1c2454978aece688ac5dbd0a1/Screen_Shot_2021-01-05_at_19.46.31.jpg)
 
 ![Screen_Shot_2021-01-09_at_21.41.23](/%E5%A4%A7%E5%B1%8F%E6%95%88%E7%8E%87%E6%8C%87%E5%8D%97%EF%BC%9A%E4%BC%98%E5%8C%96%E7%B3%BB%E7%BB%9F%E5%81%8F%E5%A5%BD%E4%BB%A5%E5%88%A9%E7%94%A8%E6%9B%B4%E5%A4%9A%E7%A9%BA%E9%97%B4%EF%BC%88%E4%B8%80%EF%BC%89%20593062c1c2454978aece688ac5dbd0a1/Screen_Shot_2021-01-09_at_21.41.23.jpg)
+
 When using a small screen on a laptop, the default resolution scaling is optimal for most sit and work usage . But on a bigger display, you can adjust the resolution scaling to display more windows and content with plenty of free space.
 
-Method: Apple Menu > System Preferences> Tap "Display"> Hold ⌥Option and click on "Scaling"> Choose a suitable scaling ratio![Screen_Shot_2021-01-05_at_13.22.40 1](/%E5%A4%A7%E5%B1%8F%E6%95%88%E7%8E%87%E6%8C%87%E5%8D%97%EF%BC%9A%E4%BC%98%E5%8C%96%E7%B3%BB%E7%BB%9F%E5%81%8F%E5%A5%BD%E4%BB%A5%E5%88%A9%E7%94%A8%E6%9B%B4%E5%A4%9A%E7%A9%BA%E9%97%B4%EF%BC%88%E4%B8%80%EF%BC%89%20593062c1c2454978aece688ac5dbd0a1/Screen_Shot_2021-01-05_at_13.22.40 1.jpg)
+Method: Apple Menu > System Preferences> Tap "Display"> Hold ⌥Option and click on "Scaling"> Choose a suitable scaling ratio
+
+![Screen_Shot_2021-01-05_at_13.22.40](/%E5%A4%A7%E5%B1%8F%E6%95%88%E7%8E%87%E6%8C%87%E5%8D%97%EF%BC%9A%E4%BC%98%E5%8C%96%E7%B3%BB%E7%BB%9F%E5%81%8F%E5%A5%BD%E4%BB%A5%E5%88%A9%E7%94%A8%E6%9B%B4%E5%A4%9A%E7%A9%BA%E9%97%B4%EF%BC%88%E4%B8%80%EF%BC%89%20593062c1c2454978aece688ac5dbd0a1/Screen_Shot_2021-01-05_at_13.22.40 1.jpg)
 
 ![Screen_Shot_2021-01-05_at_21.30.42](/%E5%A4%A7%E5%B1%8F%E6%95%88%E7%8E%87%E6%8C%87%E5%8D%97%EF%BC%9A%E4%BC%98%E5%8C%96%E7%B3%BB%E7%BB%9F%E5%81%8F%E5%A5%BD%E4%BB%A5%E5%88%A9%E7%94%A8%E6%9B%B4%E5%A4%9A%E7%A9%BA%E9%97%B4%EF%BC%88%E4%B8%80%EF%BC%89%20593062c1c2454978aece688ac5dbd0a1/Screen_Shot_2021-01-05_at_21.30.42.jpg)Note: Most applications will adjust the window size and font size scaling according to the system resolution scaling. Feel free to to adjust them to your liking.
 
@@ -94,7 +93,11 @@ In addition, we can decorate each virtual desktop in macOS with different wallpa
 - Keys mistouched when cleaning the keyboard? Why not lock the keyboard
 - More functions are waiting for you to discover...
 
-![Screen_Shot_2021-01-09_at_22.07.52](/%E5%A4%A7%E5%B1%8F%E6%95%88%E7%8E%87%E6%8C%87%E5%8D%97%EF%BC%9A%E4%BC%98%E5%8C%96%E7%B3%BB%E7%BB%9F%E5%81%8F%E5%A5%BD%E4%BB%A5%E5%88%A9%E7%94%A8%E6%9B%B4%E5%A4%9A%E7%A9%BA%E9%97%B4%EF%BC%88%E4%B8%80%EF%BC%89%20593062c1c2454978aece688ac5dbd0a1/Screen_Shot_2021-01-09_at_22.07.52-1610531588436.jpg)If there is a "universal switch" that can help you do these trivial operations, isn't it gonna save you a lot of time learning?  With One Switch, you can perform these operations with one click in a much more elegant way. But sadly there isn't one on windows.![Screen_Shot_2021-01-09_at_22.07.30](/%E5%A4%A7%E5%B1%8F%E6%95%88%E7%8E%87%E6%8C%87%E5%8D%97%EF%BC%9A%E4%BC%98%E5%8C%96%E7%B3%BB%E7%BB%9F%E5%81%8F%E5%A5%BD%E4%BB%A5%E5%88%A9%E7%94%A8%E6%9B%B4%E5%A4%9A%E7%A9%BA%E9%97%B4%EF%BC%88%E4%B8%80%EF%BC%89%20593062c1c2454978aece688ac5dbd0a1/Screen_Shot_2021-01-09_at_22.07.30.jpg)
+![Screen_Shot_2021-01-09_at_22.07.52](/%E5%A4%A7%E5%B1%8F%E6%95%88%E7%8E%87%E6%8C%87%E5%8D%97%EF%BC%9A%E4%BC%98%E5%8C%96%E7%B3%BB%E7%BB%9F%E5%81%8F%E5%A5%BD%E4%BB%A5%E5%88%A9%E7%94%A8%E6%9B%B4%E5%A4%9A%E7%A9%BA%E9%97%B4%EF%BC%88%E4%B8%80%EF%BC%89%20593062c1c2454978aece688ac5dbd0a1/Screen_Shot_2021-01-09_at_22.07.52-1610531588436.jpg)
+
+If there is a "universal switch" that can help you do these trivial operations, isn't it gonna save you a lot of time learning?  With One Switch, you can perform these operations with one click in a much more elegant way. But sadly there isn't one on windows.
+
+![Screen_Shot_2021-01-09_at_22.07.30](/%E5%A4%A7%E5%B1%8F%E6%95%88%E7%8E%87%E6%8C%87%E5%8D%97%EF%BC%9A%E4%BC%98%E5%8C%96%E7%B3%BB%E7%BB%9F%E5%81%8F%E5%A5%BD%E4%BB%A5%E5%88%A9%E7%94%A8%E6%9B%B4%E5%A4%9A%E7%A9%BA%E9%97%B4%EF%BC%88%E4%B8%80%EF%BC%89%20593062c1c2454978aece688ac5dbd0a1/Screen_Shot_2021-01-09_at_22.07.30.jpg)
 
 If you are interested in One Switch, you can visit its [Official Website](https://fireball.studio/oneswitch) or [Digital Lychee](https://store.lizhi.io/site/products/id/271 ?cid=mgeblp1f) / [Sspai](https://sspai.com/item/77) .
 
