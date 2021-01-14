@@ -3,6 +3,8 @@ layout: single
 title:  "Why it feels so dull after browsing TikTok? My reflection on online content"
 date:   2021-01-09 21:18:39 +0800
 categories: productivity
+lang: en
+ref: dull_tiktok
 ---
 
 From the debut of short video in the past to today in 2021, the business model like Tik Tok and Kuaishou created explosive growth for companies like Byte Dance, while new fields such as livestream marketing are getting more and more popular.
