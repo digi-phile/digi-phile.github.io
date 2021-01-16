@@ -5,7 +5,6 @@ date:   2021-01-10 21:18:39 +0800
 categories: productivity
 ---
 
-# Tip 1: Leave your devices alone
 
 Have you ever taken your smart phone with you when you go to bed? I admit I used to do that, and always get 2 extra waking hours. 
 
@@ -130,7 +129,9 @@ Your body’s temperature decreases during sleep, and a cool, but not cold, room
 
 ![/sleep-tips/Untitled%201.png](/sleep-tips/Untitled%201.png)
 
-Photo by Siebe Warmoeskerken on Unsplash
+感谢阅读！作者 @Yixiao Zhang
+
+© 本文著作权归作者所有，首发于[Digiphile](https://digiphile.org)，转载请注明。
 
 # Reference and further readings
 
