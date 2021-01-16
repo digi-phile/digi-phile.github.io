@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "zh-CN"
 title                    : "Digiphile"
 title_separator          : "-"
-subtitle                 : 'Blog focusing tech, productivity and programming' # site tagline that appears below site title in masthead
+subtitle                 : '一个关注科技和效率的博客' # site tagline that appears below site title in masthead
 name                     : "Digiphile Members"
 description              : "Blog focusing tech, productivity and programming"
 url                      : "https://digiphile.org" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Our Digiphilers"
   avatar           : "/assets/DIGI.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Productivity and Tech Enthusiasts"
+  bio              : "科技与效率的爱好者"
   location         : "Suzhou | New York"
   # email            : "szcharlesji@gmail"
   links:
