@@ -81,7 +81,10 @@ og_image                 : "/assets/DIGI.png" # Open Graph/Twitter default site 
 social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  links: 
+    - "https://twitter.com/gaicharlie"
+    - "https://instagram.com/charles_ji_"
+    - "https://www.linkedin.com/in/charles-ji" # An array of links to social media profiles
 
 # Analytics
 analytics:
