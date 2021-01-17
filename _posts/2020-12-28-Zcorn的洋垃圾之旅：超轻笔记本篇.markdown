@@ -190,6 +190,14 @@ categories: Computer Review
 
 Apple Macbook Air (1.27kg)，搭载M1芯片后成为真正意义上的EVO笔记本（大误），续航动辄十几个小时，性能吊锤i9（牙膏厂当场暴毙）。
 
+
+感谢阅读！作者 @[Yuming Zhou][1]
+
+© 本文著作权归作者所有，首发于[Digiphile][2]，转载请注明。
+
+[1]: mailto:zcorn@zcorn.cn
+[2]: https://digiphile.org
+
 [image-1]: ../Zcorn/Zcorn的洋垃圾之旅：超轻笔记本篇/image-20201229142013115.png
 [image-2]: ../Zcorn/Zcorn的洋垃圾之旅：超轻笔记本篇/image-20201229142153544.png
 [image-3]:../Zcorn/Zcorn的洋垃圾之旅：超轻笔记本篇/image-20201229142642122.png
